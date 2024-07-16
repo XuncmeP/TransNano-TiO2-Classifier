@@ -1,1 +1,1 @@
-# Transnano-TiO2-Classifier
+# TransNano-TiO2-Classifier
