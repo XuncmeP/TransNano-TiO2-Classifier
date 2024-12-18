@@ -9,5 +9,6 @@ E-mail: tomasz.puzyn@ug.edu.pl; karolina.jagiello@ug.edu.pl
 4. The National Research Centre for the Working Environment, Copenhagen, DK-2100, Denmark
 
 
-This work was funded via the National Science Centre in the frame of the TransNANO project (UMO-2020/37/B/ST5/01894) with the support of the European Union Horizon 2020 research and innovation programme under grant No.101008099 (CompSafeNano). This work has been also financially supported by Health Canada’s Genomics Research and Development Initiative.
+This work was funded via the National Science Centre in the frame of the TransNANO project (UMO-2020/37/B/ST5/01894) with the support of the European Union Horizon 2020 research and innovation programme under grant No.101008099 (CompSafeNano). This work has been also financially supported by funds from Health Canada’s Genomics Research and Development Initiative awarded to SH. UV received funding from FFIKA2, Focused Research Effort on Chemicals in the Working Environment, from the Danish Government. The computations were enabled by resources provided by the Centre of Informatics TASK (CI TASK), Gdansk University of Technology.
+
 
